@@ -1,5 +1,11 @@
 ## Eai, beleza? Bem vindo ao meu perfil no **Github**
 
+<div>
+  <p>Meu nome é Rafael Fernandes, tenho 22 anos.
+
+Estou no 4° semestre de Análise desenvolvimento de sistemas na Universidade Estácio e faço cursos de programação entre outras coisas relacionadas a área de TI em paralelo. <p>
+ </div>
+
 <div align="center">
   <a href="https://github.com/joaovrcosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovrcosta&layout=compact&langs_count=7&theme=aura"/>
