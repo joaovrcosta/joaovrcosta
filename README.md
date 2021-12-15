@@ -6,7 +6,9 @@
 Estou no 3° semestre de Desenvolvimento de Software Multiplataforma na FATEC e faço cursos de programação entre outras coisas relacionadas a área de TI em paralelo. <p>
  </div>
  
+ <div>
  <iframe src="https://giphy.com/embed/lo4hWSPgBJLlUjGYeK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NoiseNest-nnn-noise-nest-donut-baby-lo4hWSPgBJLlUjGYeK">via GIPHY</a></p>
+  </div>
 
 <div align="center">
   <a href="https://github.com/joaovrcosta">
