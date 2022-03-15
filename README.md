@@ -1,7 +1,7 @@
 ## Eai, beleza? Bem vindo ao meu perfil no **Github**
 
 <div>
-  <p>Meu nome é João Victor, tenho 21 anos.
+  <p>Meu nome é João Victor, tenho 22 anos.
 
 Estou no 3° semestre de Desenvolvimento de Software Multiplataforma na FATEC e faço cursos de programação entre outras coisas relacionadas a área de TI em paralelo. <p>
  </div>
