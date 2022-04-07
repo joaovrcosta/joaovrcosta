@@ -23,8 +23,4 @@ Estou no 3° semestre de Desenvolvimento de Software Multiplataforma na FATEC e 
   <img align="center" left="30" alt="Jao-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
   <img align="center" left="30" alt="Jao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
 </div>
-  
- <div><br>
-  <img align="center" left="30" alt="Jao-Sharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-41b89013a/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Elias%20Gabriel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-41b89013a/"/></a>
-  </div>
+ 
