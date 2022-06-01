@@ -1,4 +1,4 @@
-## Eai, beleza? Bem vindo ao meu perfil no **Github**
+## Eai, beleza?🤠 Bem vindo ao meu perfil no **Github**
 
 <div>
   <p>Meu nome é João Victor, tenho 22 anos.
