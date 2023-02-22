@@ -1,9 +1,9 @@
 ## Heey, beleza?🤠 Bem vindo ao meu perfil no **Github**
 
 <div>
-  <p>Meu nome é João Victor, tenho 22 anos.
+  <p>My name is João Victor, I'm 22 years old.
 
-Estou no 4° semestre de Desenvolvimento de Software Multiplataforma na FATEC e faço cursos de programação entre outras coisas relacionadas a área de TI em paralelo. <p>
+I'm in the 5th semester of Multiplatform Software Development at FATEC and I take programming courses and other things related to the IT area in parallel. <p>
  </div>
  
 <div align="center">
