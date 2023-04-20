@@ -5,12 +5,6 @@
 
 I'm in the 5th semester of Multiplatform Software Development at FATEC and I take programming courses and other things related to the IT area in parallel. <p>
  </div>
- 
-<div align="center">
-  <a href="https://github.com/joaovrcosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovrcosta&layout=compact&langs_count=7&theme=aura"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovrcosta&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-</div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Jao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
