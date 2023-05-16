@@ -3,7 +3,7 @@
 <div>
   <p>My name is João Victor, I'm 23 years old.
 
-I'm in the 5th semester of Multiplatform Software Development at FATEC and I take programming courses and other things related to the IT area in parallel. <p>
+<p> I'm a developer and hungry to discover new ways to boost myself in this infinite universe of possibilities that is programming, I started studying more than 5 years ago, and today I'm involved with technologies such as React SPAs and Node.js (REST, GraphQL, PostgreSQL, MySQL , SQLite, MongoDB) among many others. </p>
  </div>
 
   <div style="display: inline_block"><br>
