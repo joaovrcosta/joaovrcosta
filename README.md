@@ -6,7 +6,7 @@
 <p> I'm a developer and hungry to discover new ways to boost myself in this infinite universe of possibilities that is programming, I started studying more than 5 years ago, and today I'm involved with technologies such as React SPAs and Node.js (REST, GraphQL, PostgreSQL, MySQL , SQLite, MongoDB) among many others. </p>
  </div>
  
- #Technologies I know:
+  Technologies I know:
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Jao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,5 +27,6 @@
   <img align="center" left="30" alt="Jao-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" left="30" alt="Jao-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" left="30" alt="Jao-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" left="30" alt="Jao-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
  
