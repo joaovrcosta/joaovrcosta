@@ -1,4 +1,7 @@
-## Heey, how are you?🤠 Welcome to my **Github**
+## Hello! 🤠
+##Thanks for visiting my **GitHub** profile. Dive in and explore my projects!
+
+
 
 <div>
   <p>My name is João Victor, I'm 23 years old.
