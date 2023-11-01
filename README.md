@@ -1,5 +1,5 @@
 ## Hello! 🤠
-##Thanks for visiting my **GitHub** profile. Dive in and explore my projects!
+Thanks for visiting my **GitHub** profile. Dive in and explore my projects!
 
 
 
