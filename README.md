@@ -3,7 +3,9 @@
 <div>
   <p>My name is João Victor, I'm 23 years old.
 
-<p> I'm a developer and hungry to discover new ways to boost myself in this infinite universe of possibilities that is programming, I started studying more than 5 years ago, and today I'm involved with technologies such as React/NextJS 13 SPAs and Node.js (REST, GraphQL, PostgreSQL, MySQL , SQLite, MongoDB) among many others. </p>
+<p> I'm a passionate developer, always eager to explore the vast universe of programming. With over five years of experience under my belt, I've delved into an array of technologies. Currently, I specialize in React/NextJS 13 SPAs and Node.js, where I've worked with REST, GraphQL, and databases like PostgreSQL, MySQL, SQLite, and MongoDB, among other advanced technologies.
+
+ </p>
  </div>
  
   Technologies I know:
