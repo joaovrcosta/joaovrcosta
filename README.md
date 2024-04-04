@@ -4,7 +4,7 @@ Thanks for visiting my **GitHub** profile. Dive in and explore my projects!
 
 
 <div>
-  <p>My name is João Victor, I'm 23 years old.
+  <p>My name is João Victor, I'm 24 years old.
 
 <p> I'm a passionate developer, always eager to explore the vast universe of programming. With over six years of experience under my belt, I've delved into an array of technologies. Currently, I specialize in React/NextJS 13 SPAs and Node.js, where I've worked with REST, GraphQL, and databases like PostgreSQL, MySQL, SQLite, and MongoDB, among other advanced technologies.
 
